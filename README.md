@@ -5,12 +5,12 @@
 4. Open up the local repo in your Visual Studio Code.
 5. Inside, create a folder with this template "LastName, GivenName"
 6. Inside that folder, create another folder with today's date e.g. "Month26"
-7. Inside that folder, create an MD text file called git-sheet.
+7. Inside that folder, create an MD text file called demo.txt.
 Your file structure should be:
 ```
 [Nocom, Paola]
   ∟ [June26]
-      ∟ git-sheet.md
+      ∟ demo.txt
 ```
 
 8. Add your changes to staging area (git add .)
@@ -26,7 +26,7 @@ Your file structure should be:
 ```
 [LastName, Given Name]
   ∟ [June26]
-        ∟ git-sheet.md
+        ∟ demo.txt
   ∟ [June27]
         ∟ deliverables.etc
   ∟ [June28]
