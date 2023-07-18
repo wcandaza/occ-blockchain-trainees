@@ -1,0 +1,23 @@
+{
+    "name": "Orange Girl",
+    "description": "Girl with orange hair",
+    "image": "https://ipfs.io/ipfs/Qme8aNhTfaNuGjoX7QqJj2deoEAUsqv9KsNMRf5CANNyak/5.png",
+    "attributes": [
+        {
+            "trait_type": "Style",
+            "value": "Oil Painting"
+        },
+        {
+            "trait_type": "Theme",
+            "value": "Portrait"
+        },
+        {
+            "trait_type": "Dimensions",
+            "value": "Portrait 4:5"
+        },
+        {
+            "trait_type": "Owner",
+            "value": "Winfred"
+        }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "name": "Sophie",
+    "description": "A champion in LOL name Sophie",
+    "image": "https://ipfs.io/ipfs/Qme8aNhTfaNuGjoX7QqJj2deoEAUsqv9KsNMRf5CANNyak/19.png",
+    "attributes": [
+        {
+            "trait_type": "Style",
+            "value": "Oil Painting"
+        },
+        {
+            "trait_type": "Theme",
+            "value": "Portrait"
+        },
+        {
+            "trait_type": "Dimensions",
+            "value": "Portrait 4:5"
+        },
+        {
+            "trait_type": "Owner",
+            "value": "Winfred"
+        }
+    ]
+  }
